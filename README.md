@@ -7,6 +7,6 @@ A real-time Python-based webcam surveillance application that detects new custom
 - 📹 Live webcam monitoring
 - 🧠 Object/customer detection using frame difference or custom logic
 - 📧 Email notifications with image snapshot
-- ⚙️ Configurable detection sensitivity and email settings
+
 
 
