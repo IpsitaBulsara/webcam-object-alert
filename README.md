@@ -1,2 +1,12 @@
-# webcam-object-alert
-A real-time Python application that uses a webcam to detect new customers or objects and sends automated email alerts when a new presence is detected.
+# Webcam Object Alert 🚨📷
+
+A real-time Python-based webcam surveillance application that detects new customers or objects and sends an email notification when a new presence is detected.
+
+## 🔍 Features
+
+- 📹 Live webcam monitoring
+- 🧠 Object/customer detection using frame difference or custom logic
+- 📧 Email notifications with image snapshot
+- ⚙️ Configurable detection sensitivity and email settings
+
+
